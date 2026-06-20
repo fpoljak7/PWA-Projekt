@@ -1,4 +1,7 @@
 # PWA-Projekt
 Projekt iz PWA 2026. - Franceinfo
 
-Svi fileovi, baza + video kako funkcionira
+Fileovi i baza unutar *projekt* mape, 
+baza se zove *projekt_pwa*
+
+Video: 
